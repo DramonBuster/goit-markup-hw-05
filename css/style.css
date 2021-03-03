@@ -211,6 +211,10 @@ div.container {
   border-radius: 4px;
 }
 
+.service-button:hover {
+  cursor: pointer;
+}
+
 .backdrop {
   position: fixed;
   top: 0%;
